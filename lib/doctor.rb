@@ -28,4 +28,5 @@
        appt.patient
      end
    end
+   
  end
