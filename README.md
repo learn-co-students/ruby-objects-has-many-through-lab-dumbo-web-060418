@@ -5,7 +5,7 @@
 1. Write classes that are related to each other via the "has-many-through" relationship.
 2. Write methods that use the "has-many-through" relationship to deliver information on related objects.
 
-## Overview
+## Overviewd
 
 In this lab, we'll be dealing with two sets of three classes.
 
